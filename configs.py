@@ -22,12 +22,12 @@ I am Telegram Files Rename Bot.
 
 Send me a File to Rename.
 
-Made by @AbirHasan2005
+Assist by @personal robot 
     """
     PROGRESS = """
-Percentage : {0}%
-Done: {1}
-Total: {2}
-Speed: {3}/s
-ETA: {4}
+🌡️Percentage : {0}%
+♻️Done: {1}
+⚡️Total: {2}
+🚀Speed: {3}/s
+⏳️ETA: {4}
     """
